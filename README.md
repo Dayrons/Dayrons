@@ -52,17 +52,3 @@ Te invito a explorar mi **portafolio** para descubrir mis proyectos más recient
 
 ---
 
-### Conéctate conmigo
-
-Estoy siempre abierto a nuevas oportunidades, colaboraciones y discusiones sobre tecnología. No dudes en contactarme:
-
-* **LinkedIn:** [Tu perfil de LinkedIn aquí]
-* **Correo Electrónico:** [Tu correo electrónico aquí]
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ryo-ma/github-profile-trophy/master/svg/icons/default.svg" width="80" alt="GitHub Trophies" />
-  <img src="https://github-readme-stats.vercel.app/api?username=dayrons&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dayrons&theme=radical" alt="Racha de contribuciones de GitHub" />
-</p>
